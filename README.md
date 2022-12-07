@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @shecodessk
-- 👀 I’m interested in creating beautiful, interactive, intentional websites.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript to become a front-end developer.
+- 👩🏽‍💻 I am an aspiring Frontend Engineer and want to get into Tech Technology.
+- 🌱 I’m currently learning HTML, CSS, JavaScript & React.
+- 🎨I enjoy creating beautiful, interactive, intentional websites.
+- 📫 Reach me on LinkedIn
 
 <!---
 shecodessk/shecodessk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
