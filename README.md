@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shecodessk
-- 👩🏽‍💻 I am an aspiring Frontend Engineer and want to get into Tech Technology.
+- 👩🏽‍💻 I am a junior Front-end Developer and I used to work in the Marketing side of Tech.
 - 🌱 I’m currently learning HTML, CSS, JavaScript & React.
 - 🎨I enjoy creating beautiful, interactive, intentional websites.
 - 📫 Reach me on LinkedIn
