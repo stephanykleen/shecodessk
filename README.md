@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shecodessk
 - 👩🏽‍💻 I am an aspiring junior Front-end Developer and I used to work in the Marketing side of Tech.
-- 🌱 I’m recently graduated from a bottcamp where I learned HTML, CSS, JavaScript & React.
+- 🌱 Learning Fullstack through App Academy Open 
 - 🎨I enjoy creating beautiful, interactive, intentional websites.
 - Checkout my [Portfolio](https://fascinating-choux-34469c.netlify.app/).
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/stephanykleen/)
